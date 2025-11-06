@@ -32,7 +32,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Déploiement
+## Déploiement !
 
 Voici les étapes à suivre pour déployer en production :
 
